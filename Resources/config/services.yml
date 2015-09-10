@@ -1,0 +1,4 @@
+services:
+#    g_theron_os.example:
+#        class: GTheron\OSBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
